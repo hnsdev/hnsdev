@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-📚 I'm a Data Science researcher and new graduate from MCS department.
+📚 I'm a Data Analysis & Science enthusiast - New graduate from MCS department.
 
 
 ### What I'm currently learning:
