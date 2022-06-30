@@ -3,16 +3,6 @@
 📚 I'm a Data Analysis & Science enthusiast - New graduate from MCS department.
 
 
-### What I'm currently learning:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="70px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/89608627/156886324-2bcb7ec8-f388-41e7-b262-64354cfe6203.png" width="70px" height="">&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
 ## My activities
 
 <a href="https://github.com/hnsdev/github-readme-stats">
